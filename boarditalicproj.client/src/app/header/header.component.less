@@ -1,0 +1,119 @@
+.headoflabels
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    .backimage
+    {
+        position: absolute;
+        width: 100%;
+        height: 100vh;
+        top: 0;
+    }
+
+    .imageto
+    {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        top: 30%;
+    }
+
+    ul
+    {
+        display: flex;
+        padding: 17px;
+        
+        li
+        {
+            list-style: none;
+
+            button
+            {
+                font-weight: bolder;
+                text-transform: uppercase;
+                margin: 10px;
+                border: 0;
+                color: white;
+                background-color: transparent;
+            }
+        }
+    }
+}
+
+.backimage
+{
+    height: 100vh;
+    width: 100%;
+    //animation: ChangePic 15s linear infinite;
+    animation: showit 4s linear infinite;
+
+    .dots
+    {
+        display: flex;
+        justify-content: center;
+        align-items: start;
+        transform: translateY(85vh);
+
+        span
+        {
+            background-color: white;
+            width: 30px;
+            height: 30px;
+            margin: 10px;
+            border-radius: 50%;
+            border: 2px solid black;
+        }
+    }
+}
+
+.title
+{
+    position: absolute;
+    top: 70%;
+    left: 35%;
+
+    h1
+    {
+        font-size: 45px;
+        color: white;
+        font-weight: bolder;
+    }
+
+    p
+    {
+        color: white;
+        font-weight: bold;
+        width: 80%;
+    }
+}
+/*
+@keyframes ChangePic
+{
+    0%
+    {
+        background-image: url('/assets/1.jpg');
+    }
+    50%
+    {
+        background-image: url('/assets/2.jpg');
+    }
+    100%
+    {
+        background-image: url('/assets/3.jpg');
+    }
+}
+*/
+
+@keyframes showit
+{
+    0%
+    {
+        opacity: 0.5;
+    }
+    100%
+    {
+        opacity: 1;
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "vKb8IzTe5b1iPzJVvZwRVKCJ2K8gw3M10898Z6Lk77s=",
+  "Source": "BoardItalicProj.Server",
+  "BasePath": "_content/BoardItalicProj.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Windows Helper\\Abdullah\\Desktop\\BoardItalicProj\\boarditalicproj.client\\boarditalicproj.client.esproj",
+      "Version": 2,
+      "Source": "boarditalicproj.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

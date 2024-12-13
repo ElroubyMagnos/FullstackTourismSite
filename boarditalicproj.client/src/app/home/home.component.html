@@ -1,0 +1,34 @@
+<article class="firstarticle">
+    <h1 class="title">Why Choose US</h1>
+
+    <div class="boxes">
+        <section *ngFor="let wcubox of WCUBoxes" class="box">
+            <i [class]="wcubox.iconIDFA"></i>
+            <div>
+                <h1>{{wcubox.title}}</h1>
+                <p>{{wcubox.desc}}</p>
+                <button class="learnmorebtn">Learn More...</button>
+            </div>
+        </section>
+    </div>
+</article>
+
+<article class="travels">
+    <h1 class="title" style="color: black;">Destinations</h1>
+
+    <section style="display: flex;justify-content: center;flex-wrap: wrap;">
+        <div class="city">
+            <img src="/assets/milanobox.jpg" alt="">
+            <div class="downsquare">
+                <div style="display: flex;justify-content: space-between;">
+                    <p style="font-style: italic;">Milano</p>
+                    <p>Italy</p>
+                </div>
+                <div style="display: flex;justify-content: space-between;">
+                    <h2>Milan is the living heart of Italy, the city of shopping and fashion...</h2>
+                </div>
+                <button routerLink="cities/1">» Read More</button>
+            </div>
+        </div>
+    </section>
+</article>

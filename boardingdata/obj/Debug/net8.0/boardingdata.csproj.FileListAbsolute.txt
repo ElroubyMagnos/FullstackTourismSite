@@ -1,0 +1,14 @@
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\bin\Debug\net8.0\boardingdata.deps.json
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\bin\Debug\net8.0\boardingdata.runtimeconfig.json
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\bin\Debug\net8.0\boardingdata.dll
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\bin\Debug\net8.0\boardingdata.pdb
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\obj\Debug\net8.0\boardingdata.csproj.AssemblyReference.cache
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\obj\Debug\net8.0\boardingdata.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\obj\Debug\net8.0\boardingdata.AssemblyInfoInputs.cache
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\obj\Debug\net8.0\boardingdata.AssemblyInfo.cs
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\obj\Debug\net8.0\boardingdata.csproj.CoreCompileInputs.cache
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\obj\Debug\net8.0\boardingdata.dll
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\obj\Debug\net8.0\refint\boardingdata.dll
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\obj\Debug\net8.0\boardingdata.pdb
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\obj\Debug\net8.0\boardingdata.genruntimeconfig.cache
+D:\Windows Helper\Abdullah\Desktop\BoardItalicProj\boardingdata\obj\Debug\net8.0\ref\boardingdata.dll
